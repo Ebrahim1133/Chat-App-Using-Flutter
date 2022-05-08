@@ -3,5 +3,5 @@
 
 <h1> Demo Video </h1>
 
-![Test-Gif-File](https://github.com/Ebrahim1133/Chat-App-Using-Flutter/blob/master/20210523_232752.gif , width=200px,height=200px)
+![Test-Gif-File](https://github.com/Ebrahim1133/Chat-App-Using-Flutter/blob/master/20210523_232752.gif)
 
